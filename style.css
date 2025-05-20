@@ -1,0 +1,91 @@
+body {
+    background-color: tan
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #a1436f;
+}
+
+.img_officeimage1 {
+    position: static;
+    width: 150px;
+    height: 150px;
+    left: 110px;
+    
+}
+
+.img_officeimage1_tab {
+    position: relative;
+    text-align: center;
+    width: 120px;
+    height: 25px;
+    left: 10px;
+    bottom: 930px;
+    background-color: purple;
+}
+
+.img_writerimage {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 90px;
+    bottom: 85px;
+}
+
+.img_writerimage_tab {
+    position: relative;
+    text-align: center;
+    width: 120px;
+    height: 25px;
+    left: 195px;
+    bottom: 970px;
+    background-color: blueviolet;
+
+}
+.img_mybitmoji {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 180px;
+    bottom: 167px;
+}
+
+.img_myimage_altered {
+    position: relative;
+    width: 175px;
+    height: 150px;
+    left: 270px;
+    bottom: 250px;
+}
+
+.myimage_altered_tab {
+    position: relative;
+    text-align: center;
+    width: 90px;
+    height: 25px;
+    left: 580px;
+    bottom: 890px;
+    background-color: brown;
+
+}
+
+.img_paulettecropped {
+    position: relative;
+    width: 175px;
+    height: 150px;
+    left: 380px;
+    bottom: 332px;
+}
+
+.img_cat_bitmoji {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 472px;
+    bottom: 430px;
+}
